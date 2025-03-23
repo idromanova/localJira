@@ -1,11 +1,11 @@
-package com.romanova.jira
+package com.family.jira
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class JiraApplication
+class FamilyJiraApplication
 
 fun main(args: Array<String>) {
-	runApplication<JiraApplication>(*args)
+	runApplication<FamilyJiraApplication>(*args)
 }

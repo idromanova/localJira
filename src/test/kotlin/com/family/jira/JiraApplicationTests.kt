@@ -1,4 +1,4 @@
-package com.romanova.jira
+package com.family.jira
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
